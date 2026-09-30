@@ -1,0 +1,6 @@
+{
+  "name": "Event2Social AI",
+  "description": "Multimodal Event-to-Social Content Engine that transforms real-world event experiences and media into platform-optimized social content.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
